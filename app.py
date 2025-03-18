@@ -25,3 +25,7 @@ while True:
     elif event == 'Resetar':
         janela.close()
         janela = criar_janela_inicial()
+
+
+
+#
